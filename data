@@ -1,0 +1,5 @@
+inlcude files.cs
+
+function pirulo(data){
+    cout >> data
+}
