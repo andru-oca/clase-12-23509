@@ -17,3 +17,5 @@ function pirulo(data){
 var:string piruloResult = pirulo()
 
 cout >> piruloResult
+
+data::: extra
