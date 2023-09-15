@@ -3,3 +3,8 @@ inlcude files.cs
 function pirulo(data){
     cout >> data
 }
+
+
+var:string piruloResult = pirulo()
+
+cout >> piruloResult
